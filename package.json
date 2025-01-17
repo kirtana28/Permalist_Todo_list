@@ -2,11 +2,11 @@
   "name": "5-capstone---todo-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "solution.js",  // Point to solution.js as the main entry file
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node solution.js"  // Start the app with solution.js
   },
   "keywords": [],
   "author": "",
